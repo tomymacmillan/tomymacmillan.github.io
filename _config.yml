@@ -26,7 +26,7 @@ url: "http://tomymacmillan.github.io" # the base hostname & protocol for your si
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@tomymacmillan'
-
+markdown: redcarpet
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
